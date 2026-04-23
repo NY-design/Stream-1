@@ -7,7 +7,7 @@ st.write("Hello! enter hours studies to predict the exam score.")
 
 # Take User Input
 #name=st.text_input("Enter your name")
-hour=st.number_input("Enter age :")
+hours=st.number_input("Enter age :")
 #Display a message a button is clicked
 if st.button("Predict Score"):
-   st.write(f"Hello,{name}!Welcome to strem 1")
+   st.write(f"Hello,{hours}!Welcome to strem 1")
